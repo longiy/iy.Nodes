@@ -1,7 +1,7 @@
 # SPDX-License-Identifier: GPL-2.0-or-later
 
 bl_info = {
-    "name": "iy.Nodes",
+    "name": "longiyNodes",
     "description": "Useful and time-saving tools for node group workflow",
     "author": "Campbell Barton, Stephan Kellermayr, longiy",
     "version": (1, 0, 0),
