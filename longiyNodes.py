@@ -301,7 +301,7 @@ class NODE_MT_template_add(Menu):
 def add_node_button(self, context):
     self.layout.menu(
         NODE_MT_template_add.__name__,
-        text="longiy",
+        text="longiyNodes",
         icon='FUND',
     )
 
